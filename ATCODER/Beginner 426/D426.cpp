@@ -35,6 +35,5 @@ int main() {
         
         cout << min(ops0, ops1) << endl;
     }
-    
     return 0;
 }
